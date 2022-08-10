@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Halil <a itemprop="sameAs" content="https://orcid.org/0000-0002-1684-9602" href="https://orcid.org/0000-0002-1684-9602" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></h1>
+<h1 align="center">Hi, I'm Halil <a itemprop="sameAs" content="https://orcid.org/0000-0002-1684-9602" href="https://orcid.org/0000-0002-1684-9602" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:0.5em;margin-right:.5em;" alt="ORCID iD icon"></a></h1>
 
 Hello, my name is Halil Kolatan. I am a graduate student at Ankara University. At the same time, I am studying Computer Programming associate degree at Anadolu University. I am interested in particle physics, collider physics and data analysis. 
 
