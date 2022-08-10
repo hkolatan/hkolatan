@@ -6,8 +6,8 @@ Check my [website](https://hkolatan.github.io) and [CV]().
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=hkolatan&theme=algolia&show_icons=true&count_private=true&hide_border=true"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hkolatan&layout=compact&langs_count=8&theme=gradient&count_private=true&hide_border=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=hkolatan&theme=synthwave&show_icons=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hkolatan&layout=compact&langs_count=8&theme=synthwave&count_private=true&hide_border=true"/>
 
 
 
