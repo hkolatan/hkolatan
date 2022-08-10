@@ -7,7 +7,7 @@ Check my [website](https://hkolatan.github.io) and [CV]().
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=hkolatan&theme=vue&show_icons=true&count_private=true&hide_border=true"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hkolatan&layout=compact&langs_count=8&theme=prussian&count_private=true&hide_border=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hkolatan&layout=compact&langs_count=8&theme=vue-dark&count_private=true&hide_border=true"/>
 
 
 
