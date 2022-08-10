@@ -20,7 +20,7 @@ Check my [website](https://hkolatan.github.io) and [CV]().
   &nbsp;
   <a href="https://hkolatan.github.io" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
    &nbsp;
- <a itemprop="sameAs" content="https://orcid.org/0000-0002-1684-9602" href="https://orcid.org/0000-0002-1684-9602" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:5em;margin-right:1em;" alt="ORCID iD icon"></a>
+ <a itemprop="sameAs" content="https://orcid.org/0000-0002-1684-9602" href="https://orcid.org/0000-0002-1684-9602" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:1em;" alt="ORCID iD icon"></a>
  
 
 <!--
