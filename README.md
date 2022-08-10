@@ -10,7 +10,7 @@ Check my [website](https://hkolatan.github.io) and [CV]().
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hkolatan&layout=compact&langs_count=8&theme=algolia"/>
 
 
----
+
 ## Contact
 
 <div align="left">
@@ -19,6 +19,8 @@ Check my [website](https://hkolatan.github.io) and [CV]().
   <a href="https://github.com/hkolatan" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;
   <a href="https://hkolatan.github.io" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+   &nbsp;
+  <a href="https://hkolatan.github.io" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan Website" src=" https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.gif" /> </a>
  
 
 <!--
