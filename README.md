@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Halil</h1>
 
-Hello, my name is Halil Kolatan. I am a graduate student at Ankara University. At the same time, I am studying Computer Programming associate degree at Anadolu University. I am interested in particle physics, collider physics and data analysis. 
+Hello, my name is Halil Kolatan. I am a Master's student at Ankara University, physics. At the same time, I am studying Computer Programming associate degree at Anadolu University. I am interested in particle physics, collider physics and data analysis. 
 
 Check my [website](https://hkolatan.github.io) and [CV]().
 
