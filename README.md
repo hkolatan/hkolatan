@@ -16,7 +16,7 @@ Check my [website](https://hkolatan.github.io) and [CV]().
 <div align="left">
   <a href="mailto:halilkolatan@pm.me" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan' E-mail Address" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a>
   &nbsp;
-   <a href="mailto:hkolatan@ankara.edu.tr" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's E-mail Address" src="https://img.shields.io/badge/E--mail-7952B3?style=for-the-badge&logoColor=white" /> </a>
+   <a href="mailto:hkolatan@ankara.edu.tr" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's E-mail Address" src="https://img.shields.io/badge/E--mail-7952B3?style=for-the-badge&logoColor=white&logo=minutemailer" /> </a>
   &nbsp;
   <a href="https://github.com/hkolatan" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;
