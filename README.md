@@ -18,9 +18,9 @@ Check my [website](https://hkolatan.github.io) and [CV]().
   &nbsp;
    <a href="mailto:hkolatan@ankara.edu.tr" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's E-mail Address" src="https://img.shields.io/badge/E--mail-7952B3?style=for-the-badge&logoColor=white&logo=minutemailer" /> </a>
   &nbsp;
-  <a href="https://github.com/hkolatan" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logoColor=white&logo=github" /> </a>
-  &nbsp;
   <a href="https://hkolatan.github.io" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/hkolatan" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logoColor=white&logo=github" /> </a>
   &nbsp;
   <a href="https://orcid.org/0000-0002-1684-9602" target="_blank" rel="noreferrer"> <img alt="Halil Kolatan's Orcid" src="https://img.shields.io/badge/orcid-1785bd?style=for-the-badge&logoColor=white&logo=orcid" /> </a>
 
