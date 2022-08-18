@@ -2,7 +2,7 @@
 
 Hello, my name is Halil Kolatan. I am a Master's student at Ankara University Department of Physics. At the same time, I am studying Computer Programming associate degree at Anadolu University. I am interested in particle physics, collider physics and data analysis. 
 
-Check my [website](https://hkolatan.github.io) and [CV]().
+Check my [website](https://hkolatan.github.io).
 
 
 <p align="center">
